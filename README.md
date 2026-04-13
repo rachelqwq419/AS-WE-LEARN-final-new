@@ -71,5 +71,5 @@ To solve the "chocolate-covered broccoli" problem in ed-tech, this game introduc
 
 ---
 <div align="center">
-  <i>Developed for Final Year Project (FYP) © 2026 Lau Tsz Ho</i>
+  <i>Developed for Final Year Project (FYP) © 2026</i>
 </div>
