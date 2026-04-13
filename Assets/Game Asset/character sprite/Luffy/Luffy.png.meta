@@ -1,0 +1,348 @@
+fileFormatVersion: 2
+guid: 9800dcac417dd784e8e17a95d8358546
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: L1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 809
+        width: 123
+        height: 151
+      alignment: 9
+      pivot: {x: 0.45, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed8304f291ae7643bec333ebbaf3a0d
+      internalID: -2027570282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l2
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 809
+        width: 123
+        height: 151
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c8a405bd36cfe4aaa0ec1339b0b3cf
+      internalID: 1729261835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l3
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 809
+        width: 123
+        height: 151
+      alignment: 9
+      pivot: {x: 0.45, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59fb64bd64fe7804599d84f54f262d94
+      internalID: 1588657042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l4
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 809
+        width: 123
+        height: 151
+      alignment: 9
+      pivot: {x: 0.45, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e6902234695ec4e91685c87f75229f
+      internalID: -1675481606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L-dead
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 371
+        width: 154
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c33fc5f6fc64a9645b9bf2430b26a4b3
+      internalID: 1065316378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L hurt
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 359
+        width: 147
+        height: 162
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501ae85aa65f7c24a8090b48e0e82f6b
+      internalID: 1427375087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L attack 1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 14
+        width: 228
+        height: 170
+      alignment: 9
+      pivot: {x: 0.4, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b5099a1e251d649a4c2006585d574a
+      internalID: 123785496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L attack2
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 14
+        width: 228
+        height: 170
+      alignment: 9
+      pivot: {x: 0.4, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e0250de7edca14199bb81cdc30eaf8
+      internalID: 2074146167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L attack 3
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 14
+        width: 228
+        height: 170
+      alignment: 9
+      pivot: {x: 0.4, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e5daeea916f5e4fbc9f58b7460b44f
+      internalID: -1943570489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      L attack 1: 123785496
+      L attack 3: -1943570489
+      L attack2: 2074146167
+      L hurt: 1427375087
+      L-dead: 1065316378
+      L1: -2027570282
+      Mobile - One Piece Treasure Cruise - 0004 - Monkey D Luffy - Gear 2 (1)_0: -925418249
+      Mobile - One Piece Treasure Cruise - 0004 - Monkey D Luffy - Gear 2 (1)_11: -819312086
+      Mobile - One Piece Treasure Cruise - 0004 - Monkey D Luffy - Gear 2 (1)_13: -1807072876
+      Mobile - One Piece Treasure Cruise - 0004 - Monkey D Luffy - Gear 2 (1)_14: -621783608
+      Mobile - One Piece Treasure Cruise - 0004 - Monkey D Luffy - Gear 2 (1)_15: -2014771141
+      Mobile - One Piece Treasure Cruise - 0004 - Monkey D Luffy - Gear 2 (1)_16: 1894156935
+      Mobile - One Piece Treasure Cruise - 0004 - Monkey D Luffy - Gear 2 (1)_17: 1238832705
+      Mobile - One Piece Treasure Cruise - 0004 - Monkey D Luffy - Gear 2 (1)_18: -388258777
+      Mobile - One Piece Treasure Cruise - 0004 - Monkey D Luffy - Gear 2 (1)_19: 46840249
+      Mobile - One Piece Treasure Cruise - 0004 - Monkey D Luffy - Gear 2 (1)_2: -762623780
+      Mobile - One Piece Treasure Cruise - 0004 - Monkey D Luffy - Gear 2 (1)_20: -533645753
+      Mobile - One Piece Treasure Cruise - 0004 - Monkey D Luffy - Gear 2 (1)_21: 867472625
+      Mobile - One Piece Treasure Cruise - 0004 - Monkey D Luffy - Gear 2 (1)_22: -1770009119
+      Mobile - One Piece Treasure Cruise - 0004 - Monkey D Luffy - Gear 2 (1)_23: -2051369768
+      Mobile - One Piece Treasure Cruise - 0004 - Monkey D Luffy - Gear 2 (1)_24: -40895308
+      Mobile - One Piece Treasure Cruise - 0004 - Monkey D Luffy - Gear 2 (1)_25: 875067187
+      Mobile - One Piece Treasure Cruise - 0004 - Monkey D Luffy - Gear 2 (1)_26: -1210594617
+      Mobile - One Piece Treasure Cruise - 0004 - Monkey D Luffy - Gear 2 (1)_27: 2068703673
+      Mobile - One Piece Treasure Cruise - 0004 - Monkey D Luffy - Gear 2 (1)_28: -1879934650
+      Mobile - One Piece Treasure Cruise - 0004 - Monkey D Luffy - Gear 2 (1)_6: 1781819356
+      Mobile - One Piece Treasure Cruise - 0004 - Monkey D Luffy - Gear 2 (1)_7: -1906557406
+      Mobile - One Piece Treasure Cruise - 0004 - Monkey D Luffy - Gear 2 (1)_8: 533926949
+      Mobile - One Piece Treasure Cruise - 0004 - Monkey D Luffy - Gear 2 (1)_9: -777853646
+      l2: 1729261835
+      l3: 1588657042
+      l4: -1675481606
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35aa09c67b22bcf478ae4a912572b19e, type: 3}
+  m_Name: samraidata
+  m_EditorClassIdentifier: 
+  characterName: samrai
+  characterIcon: {fileID: -8008791250619013794, guid: b77739d9ffacf384ca0a273c3926589b, type: 3}
+  baseMaxHealth: 800
+  baseMaxMana: 100
+  baseAttackPower: 50
+  baseDefencePower: 25
+  BaseCriticalChance: 0.1
+  BaseCriticalMultiplier: 1.5
+  BasePoisonDamage: 0
+  currentExp: 0

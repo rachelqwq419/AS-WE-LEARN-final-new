@@ -1,0 +1,715 @@
+fileFormatVersion: 2
+guid: 62fb65793ea7afb43b5b93fb53c61d3f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sir Crocodil_idle 0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 815
+        width: 203
+        height: 196
+      alignment: 9
+      pivot: {x: 0.3387873, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c111774c2432045b61c040c6c35dd1
+      internalID: 1574127441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sir Crocodil_idle 2
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 816
+        width: 203
+        height: 196
+      alignment: 9
+      pivot: {x: 0.33012697, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc07e125c596ac4999b51adcb6d53a8
+      internalID: -20264694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sir Crocodil_idle 3
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 816
+        width: 203
+        height: 196
+      alignment: 9
+      pivot: {x: 0.34854683, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1334f573086552140b04fe2529575cd7
+      internalID: -166148537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sir Crocodil_idle 4
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 816
+        width: 203
+        height: 196
+      alignment: 9
+      pivot: {x: 0.33933684, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7130cf5db164e99498402734100d4497
+      internalID: 2117866404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sir Crocodil_e5
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 614
+        width: 157
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f86e98de9cddd48a55a8d9df996075
+      internalID: -1454673527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sir Crocodil_idle 5
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 592
+        width: 201
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bbfa595aaa4be0429a2661813d63477
+      internalID: -1602579099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke1
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 737
+        width: 54
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9c700496eb21747b651c2c8ccc8324
+      internalID: -423621507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sir Crocodil_e 1
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 680
+        width: 52
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 727451d8b72f9df4ebcca92faf151d09
+      internalID: 1728101980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sir Crocodil_e 2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 652
+        width: 87
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251c489697d73fa4480e945de28b8fd4
+      internalID: 1324412985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sir Crocodil_e 3
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 627
+        width: 83
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f57252b12b89897458de7b5f5083739a
+      internalID: -409766835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sir Crocodil_e 4
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 615
+        width: 102
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c1b69722e16f1c4f9036a37cfc559de
+      internalID: 144814616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke 2
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 673
+        width: 56
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e282b6f2c8fb4ee4b90e2272f5141b21
+      internalID: -156135638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sir Crocodil_25
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 666
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 081a4caf975862548a705ce6a6fd8360
+      internalID: 1111321283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke 3
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 609
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cac98aa321d86040b96304bb6339570
+      internalID: -559406982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sir Crocodil_e6
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 429
+        width: 153
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c099ed5243e4d249a6647ceadbf666b
+      internalID: 1102256096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sir Crocodil_e7
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 429
+        width: 149
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd90e683e8f5064a844e56439428fec
+      internalID: 1037093411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sir Crocodil_dead 1
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 438
+        width: 169
+        height: 144
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f31c7a21afaea4b84d807b43df6a1b
+      internalID: 775190870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sir Crocodil_dead 2
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 438
+        width: 169
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75126bd79eda1604e974399d66220dd7
+      internalID: -711368494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sir Crocodil_Hurt 1
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 246
+        width: 160
+        height: 161
+      alignment: 9
+      pivot: {x: 0.3624664, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5134c47422f20c24b885ae1f5b6c0e57
+      internalID: 80800473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light damage
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2758f543cefa9d948ba50929acf6ef2d
+      internalID: -1912571756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sir Crocodil_A 1
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 244
+        width: 197
+        height: 143
+      alignment: 9
+      pivot: {x: 0.29691714, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca266332b58c96499e880a9e4738439
+      internalID: 904720486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sir Crocodil_A2
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 244
+        width: 199
+        height: 149
+      alignment: 9
+      pivot: {x: 0.30915594, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2ce34691a5b984d9dd7c20091ed1a9
+      internalID: -2121208359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sir Crocodil_A3
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 16
+        width: 136
+        height: 194
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028fdbc58556bf546b85f7ded5dff143
+      internalID: 1700767243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sir Crocodil_A4
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 18
+        width: 153
+        height: 184
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23cc5c4a639ed674bafbf829718f119f
+      internalID: 1074106476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sir Crocodil_A5
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 19
+        width: 162
+        height: 160
+      alignment: 9
+      pivot: {x: 0.24399896, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a497cb79ba54bfe44a5d025b6dcaa9e3
+      internalID: 1333778667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sir Crocodil_A6
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 21
+        width: 196
+        height: 150
+      alignment: 9
+      pivot: {x: 0.19235852, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4eb5a3c5aeb194449133c78dfc5ad12
+      internalID: 773102805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Sir Crocodil_1: -972928419
+      Sir Crocodil_10: -903240158
+      Sir Crocodil_11: -499446385
+      Sir Crocodil_12: -1514166844
+      Sir Crocodil_13: -1273595336
+      Sir Crocodil_14: 738982492
+      Sir Crocodil_16: 2013960485
+      Sir Crocodil_17: 684138926
+      Sir Crocodil_18: -1620518600
+      Sir Crocodil_19: 754983870
+      Sir Crocodil_25: 1111321283
+      Sir Crocodil_26: 46323613
+      Sir Crocodil_32: -1298153215
+      Sir Crocodil_35: -591460747
+      Sir Crocodil_5: -791163310
+      Sir Crocodil_6: 671287447
+      Sir Crocodil_8: 1912222798
+      Sir Crocodil_A 1: 904720486
+      Sir Crocodil_A2: -2121208359
+      Sir Crocodil_A3: 1700767243
+      Sir Crocodil_A4: 1074106476
+      Sir Crocodil_A5: 1333778667
+      Sir Crocodil_A6: 773102805
+      Sir Crocodil_Hurt 1: 80800473
+      Sir Crocodil_dead 1: 775190870
+      Sir Crocodil_dead 2: -711368494
+      Sir Crocodil_e 1: 1728101980
+      Sir Crocodil_e 2: 1324412985
+      Sir Crocodil_e 3: -409766835
+      Sir Crocodil_e 4: 144814616
+      Sir Crocodil_e5: -1454673527
+      Sir Crocodil_e6: 1102256096
+      Sir Crocodil_e7: 1037093411
+      Sir Crocodil_idle 0: 1574127441
+      Sir Crocodil_idle 2: -20264694
+      Sir Crocodil_idle 3: -166148537
+      Sir Crocodil_idle 4: 2117866404
+      Sir Crocodil_idle 5: -1602579099
+      light damage: -1912571756
+      smoke 2: -156135638
+      smoke 3: -559406982
+      smoke1: -423621507
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
